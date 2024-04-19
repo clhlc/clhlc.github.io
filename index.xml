@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>clhlc</title>
+        <title>KKLT Blog</title>
         <link>https://clhlc.github.io/</link>
-        <description>Recent content on clhlc</description>
+        <description>Recent content on KKLT Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 16 Apr 2024 11:16:22 +0800</lastBuildDate><atom:link href="https://clhlc.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>clhlc</copyright>
+        <lastBuildDate>Thu, 18 Apr 2024 10:51:52 +0800</lastBuildDate><atom:link href="https://clhlc.github.io/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
